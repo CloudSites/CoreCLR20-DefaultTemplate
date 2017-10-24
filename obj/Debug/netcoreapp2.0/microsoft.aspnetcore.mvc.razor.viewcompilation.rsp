@@ -1,0 +1,10 @@
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=CSNetCore20Template
+--content-root=C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template
+--file=C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\Views\Home\Index.cshtml
+--file=C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\Views\Shared\Error.cshtml
+--file=C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\Views\Shared\_Layout.cshtml
+--file=C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\Views\_ViewImports.cshtml
+--file=C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\Views\_ViewStart.cshtml

@@ -1,0 +1,11 @@
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\bin\Release\netcoreapp2.0\CSNetCore20Template.deps.json
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\bin\Release\netcoreapp2.0\CSNetCore20Template.runtimeconfig.json
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\bin\Release\netcoreapp2.0\CSNetCore20Template.runtimeconfig.dev.json
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\bin\Release\netcoreapp2.0\CSNetCore20Template.dll
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\bin\Release\netcoreapp2.0\CSNetCore20Template.pdb
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\obj\Release\netcoreapp2.0\CSNetCore20Template.csprojResolveAssemblyReference.cache
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\obj\Release\netcoreapp2.0\CSNetCore20Template.csproj.CoreCompileInputs.cache
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\obj\Release\netcoreapp2.0\CSNetCore20Template.AssemblyInfoInputs.cache
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\obj\Release\netcoreapp2.0\CSNetCore20Template.AssemblyInfo.cs
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\obj\Release\netcoreapp2.0\CSNetCore20Template.dll
+C:\Users\work\OneDrive\Macbook\Visual Studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore20Template\obj\Release\netcoreapp2.0\CSNetCore20Template.pdb
